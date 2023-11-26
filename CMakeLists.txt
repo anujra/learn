@@ -56,4 +56,9 @@ target_link_libraries(sqlite pthread sqlite3)
 add_executable(datastruct
   datastruct/main.cpp)
 
-# target_link_libraries(datastruct ds pthread)
+add_executable(fraction
+  fraction/main.cpp)
+
+
+
+  # target_link_libraries(datastruct ds pthread)
