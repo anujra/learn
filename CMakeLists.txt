@@ -44,6 +44,12 @@ add_executable (double
 )
 target_link_libraries(double pthread)
 
+add_executable (three
+three/main.cpp
+)
+target_link_libraries(three pthread)
+
+
 add_executable (sqlite
   sqlite/main.cpp
 )

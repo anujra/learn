@@ -58,6 +58,14 @@
         "thread": "cpp",
         "iomanip": "cpp",
         "codecvt": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "charconv": "cpp",
+        "numbers": "cpp",
+        "semaphore": "cpp",
+        "span": "cpp",
+        "variant": "cpp",
+        "format": "cpp",
+        "condition_variable": "cpp",
+        "mutex": "cpp"
     }
 }
