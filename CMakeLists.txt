@@ -65,6 +65,8 @@ add_executable(datastruct
 add_executable(fraction
   fraction/main.cpp)
 
-
+add_executable(advent2023
+  advent2023/main.cpp
+)
 
   # target_link_libraries(datastruct ds pthread)
