@@ -69,4 +69,9 @@ add_executable(advent2023
   advent2023/main.cpp
 )
 
+add_executable(sandboxa
+  sandboxa/main.cpp
+)
+
+
   # target_link_libraries(datastruct ds pthread)
